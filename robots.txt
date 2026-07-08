@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://nepaltrekkingguide.github.io/camping-treks-in-the-himalayas/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
